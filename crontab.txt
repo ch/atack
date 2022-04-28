@@ -1,2 +1,2 @@
 @reboot	/root/restart.sh
-0 */4 * * *	root /root/restart.sh
+0 */4 * * * /root/restart.sh
